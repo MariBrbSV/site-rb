@@ -213,3 +213,6 @@ body, html {
   display: flex;
 }
 
+.icon {
+  color: #000441 !important;
+}
